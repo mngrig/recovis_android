@@ -10,6 +10,6 @@ import retrofit2.http.Query;
 
 public interface PatientAPI {
 
-    @GET("/patient/get-profile")
+    @GET("/patient/get-patient")
     Call<Patient> getProfile(@Query("username") String username, @Query("password") String password);
 }
