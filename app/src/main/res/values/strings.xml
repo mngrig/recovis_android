@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">recovis</string>
+    <string name="loggedInStatus">prefStatus</string>
+</resources>
