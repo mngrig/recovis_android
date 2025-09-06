@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">recovis</string>
-    <string name="loggedInStatus">prefStatus</string>
+    <string name="loggedInStatus">loggedInStatus</string>
+    <string name="logout">Logout</string>
+    <string name="patient_id">patient_id</string>
+    />
 </resources>
